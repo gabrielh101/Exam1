@@ -1,0 +1,50 @@
+<html>
+<head>
+    <title>Exam 1</title>
+    <style>
+        body{
+            background-color: darkolivegreen;
+            color: whitesmoke;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hernandez,Gabriel</h1>
+    <h2>Declining Balance Depreciation</h2>
+    <form>
+        <label for="number">Cost of Asset</label>
+        <input type="number" name="cost">
+        <p>
+        <label for="salvage">Salvage Value </label>
+        <input type="text" name="salvage">
+        <p>
+        <label>
+            <input type="radio" name="one fidy" value="1.5">150%
+        </label>
+        <label>
+            <input type="radio" name="two hundo" value="2">200%
+        </label>
+       <p>
+        <label>
+        <input type="checkbox" name="check">This asset was disposed
+    </label>
+    <P>
+    <label>
+        details 
+        <p>
+        <textarea id="textbox" name="textbox" rows="5" cols="50">
+        </textarea>
+        <p>
+             <label for="years">useful life:</label>
+
+<select name="years" id="years">
+  <option value="3">3 years</option>
+  <option value="5">5 years</option>
+  <option value="7">7 years</option>
+  <option value="15">15 years</option>
+</select> 
+
+
+</body>
+</html>
+<!--coding is my hobby :p --> 
